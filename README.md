@@ -48,14 +48,13 @@
 ```bash
 git clone https://github.com/Moksha-Kachhia/StudyLet.git
 cd Studylet
-```  
-2. **Install dependencies:**
+```
 
+2. **Install dependencies:**
 ```bash
-Copy
-Edit
 npm install
 ```
+
 3. **Create a .env.local file with:**
 ```
 REACT_APP_FIREBASE_API_KEY=your_firebase_api_key
