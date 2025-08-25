@@ -52,9 +52,9 @@
 2. **Install dependencies:**
 
 ```bash
-`Copy
-`Edit
-`npm install
+Copy
+Edit
+npm install
 ```
 3. **Create a .env.local file with:**
 ```
@@ -64,7 +64,7 @@ REACT_APP_OPENAI_API_KEY=your_openai_api_key
 
 4. **Run the app locally:**
 ```bash
-  npm start
+npm start
 ```
 
 ---
