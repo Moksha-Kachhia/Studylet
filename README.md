@@ -45,10 +45,10 @@
 ## Getting Started
 
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/<your-username>/Studylet.git](https://github.com/Moksha-Kachhia/StudyLet.git)
-   cd Studylet
-  
+```bash
+git clone https://github.com/Moksha-Kachhia/StudyLet.git
+cd Studylet
+```  
 2. **Install dependencies:**
 
 ```bash
